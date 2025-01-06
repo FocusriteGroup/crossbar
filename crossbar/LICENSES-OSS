@@ -35,7 +35,7 @@
  cytoolz              0.11.0     BSD License                                                                                          https://raw.github.com/pytoolz/cytoolz/master/AUTHORS.md       
  docker               4.4.4      Apache Software License                                                                              UNKNOWN                                                        
  ecdsa                0.16.1     UNKNOWN                                                                                              Brian Warner                                                   
- eth-abi              2.1.1      MIT License                                                                                          The Ethereum Foundation                                        
+ eth-abi              4.0.0      MIT License                                                                                          The Ethereum Foundation                                        
  eth-account          0.5.4      MIT License                                                                                          The Ethereum Foundation                                        
  eth-hash             0.3.1      MIT License                                                                                          The Ethereum Foundation                                        
  eth-keyfile          0.5.1      MIT License                                                                                          Piper Merriam                                                  
