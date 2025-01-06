@@ -28,7 +28,7 @@ cryptography==39.0.0
 cytoolz==0.12.1
 docker==6.0.1
 ecdsa==0.18.0
-eth-abi @ git+https://github.com/ethereum/eth-abi.git@78c42caaa567e2e49b03c18706e1adda1828505d
+eth-abi @ git+https://github.com/ethereum/eth-abi.git@6ba0bb47e369f732bcda9ee604d9479dc1e55c9d
 eth-account @ git+https://github.com/crossbario/eth-account.git@1aa6220b0f2c17035837f7ada4f495112f176cca
 eth-hash==0.5.1
 eth-keyfile==0.6.0
