@@ -6,7 +6,7 @@ argon2-cffi-bindings==21.2.0
 arrow==1.2.3
 async-timeout==4.0.2
 attrs==22.2.0
-autobahn @ git+https://github.com/coding-beagle/autobahn-python.git@2b99a455a553cb824a08a5ebee0c06db45151cbb
+autobahn @ git+https://github.com/coding-beagle/autobahn-python.git@049f97c9ed34bc553c0846aa8cd36574b0c129e8
 Automat==22.10.0
 base58==2.1.1
 bcrypt==4.0.1
