@@ -3,6 +3,7 @@ autobahn[twisted,encryption,compress,serialization,scram,xbr] @ git+https://gith
 base58>=2.1.1
 bcrypt>=4.0.1
 bitstring>=4.0.1
+bitarray>=2.7.0
 cbor2>=5.4.6
 cfxdb>=23.1.1
 click>=8.1.3
