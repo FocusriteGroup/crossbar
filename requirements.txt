@@ -1,4 +1,4 @@
 py-cid @ git+https://github.com/crossbario/py-cid.git@e1dc52a43ced53845679405f78d92fb18f093653
 py-multihash @ git+https://github.com/crossbario/py-multihash.git@86b54b8f9f0cf14c7370f38ae32f2b4b14f5b5e0
-autobahn[twisted,encryption,compress,serialization,scram,xbr] @ git+https://github.com/coding-beagle/autobahn-python.git@9880419ecfebd2321081dadbf6cbfdb8ace2434f
+autobahn[twisted,encryption,compress,serialization,scram,xbr] @ git+https://github.com/coding-beagle/autobahn-python.git@7f16d6509cc542a4a20a244a9009fb75b35c2c8b
 lmdb @ git+https://github.com/Bye-lemon/py-lmdb.git@7d9dfdf553bbd56d117bd64287639a68cb6dbec9
