@@ -6,7 +6,7 @@ argon2-cffi-bindings==21.2.0
 arrow==1.2.3
 async-timeout==4.0.2
 attrs==22.2.0
-autobahn @ git+https://github.com/coding-beagle/autobahn-python.git@9880419ecfebd2321081dadbf6cbfdb8ace2434f
+autobahn @ git+https://github.com/coding-beagle/autobahn-python.git@049f97c9ed34bc553c0846aa8cd36574b0c129e8
 Automat==22.10.0
 base58==2.1.1
 bcrypt==4.0.1
@@ -28,7 +28,7 @@ cryptography==39.0.0
 cytoolz==0.12.1
 docker==6.0.1
 ecdsa==0.18.0
-eth-abi @ git+https://github.com/ethereum/eth-abi.git@9c0825889bf4b2f12668d924ff203b9f3ada906f
+eth-abi @ git+https://github.com/ethereum/eth-abi.git@78c42caaa567e2e49b03c18706e1adda1828505d
 eth-account==0.11.0
 eth-hash==0.5.1
 eth-keyfile==0.6.0
@@ -57,7 +57,7 @@ Jinja2==3.1.2
 jinja2-highlight==0.6.1
 jinja2-time==0.2.0
 jsonschema==4.17.3
-lmdb @ git+https://github.com/Bye-lemon/py-lmdb.git@7d9dfdf553bbd56d117bd64287639a68cb6dbec9
+lmdb==1.5.1
 lru-dict==1.1.8
 MarkupSafe==2.1.2
 mistune==2.0.5
