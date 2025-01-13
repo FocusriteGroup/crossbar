@@ -11,7 +11,7 @@ Automat==22.10.0
 base58==2.1.1
 bcrypt==4.0.1
 binaryornot==0.4.4
-bitarray==2.7.0
+bitarray==3.0.0
 bitstring==4.0.1
 cached-property==1.5.2
 cbor2==5.4.6
@@ -57,7 +57,7 @@ Jinja2==3.1.2
 jinja2-highlight==0.6.1
 jinja2-time==0.2.0
 jsonschema==4.17.3
-lmdb @ git+https://github.com/coding-beagle/py-lmdb.git@6148979780c4e0a2b6ba0f0a1f93590998015ae7
+lmdb @ git+https://github.com/coding-beagle/py-lmdb.git@bffe71c3f0d903e8a6516a2a87404aeb6d7f61bf
 lru-dict==1.1.8
 MarkupSafe==2.1.2
 mistune==2.0.5
