@@ -57,7 +57,7 @@ Jinja2==3.1.2
 jinja2-highlight==0.6.1
 jinja2-time==0.2.0
 jsonschema==4.17.3
-lmdb==1.5.1
+lmdb @ git+https://github.com/coding-beagle/py-lmdb.git@6148979780c4e0a2b6ba0f0a1f93590998015ae7
 lru-dict==1.1.8
 MarkupSafe==2.1.2
 mistune==2.0.5
