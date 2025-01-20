@@ -57,7 +57,7 @@ Jinja2==3.1.2
 jinja2-highlight==0.6.1
 jinja2-time==0.2.0
 jsonschema==4.17.3
-lmdb @ git+https://github.com/Bye-lemon/py-lmdb.git@8c143c3f05867fbfdfe8dc8d6b1bf462778b9e28
+lmdb==1.4.0
 MarkupSafe==2.1.2
 mistune==2.0.5
 mnemonic==0.20
