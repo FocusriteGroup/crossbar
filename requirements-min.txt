@@ -33,7 +33,7 @@ jinja2-highlight>=0.6.1
 jinja2>=3.1.2
 jsonschema>=4.0.0
 # fix for python 3.12 https://github.com/jnwatson/py-lmdb/pull/352
-lmdb @ git+https://github.com/coding-beagle/py-lmdb.git@old-version#egg=lmdb
+lmdb @ git+https://github.com/focusritegroup/py-lmdb.git@old-version#egg=lmdb
 MarkupSafe>=2.1.2
 mistune>=2.0.4
 morphys>=1.0
