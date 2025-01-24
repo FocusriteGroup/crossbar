@@ -6,12 +6,12 @@ argon2-cffi-bindings==21.2.0
 arrow==1.2.3
 async-timeout==4.0.2
 attrs==22.2.0
-autobahn==23.1.1
+autobahn @ git+https://github.com/FocusriteGroup/autobahn-python.git@7f16d6509cc542a4a20a244a9009fb75b35c2c8b
 Automat==22.10.0
 base58==2.1.1
 bcrypt==4.0.1
 binaryornot==0.4.4
-bitarray==2.7.0
+bitarray==3.0.0
 bitstring==4.0.1
 cached-property==1.5.2
 cbor2==5.4.6
@@ -29,13 +29,13 @@ cytoolz==0.12.1
 docker==6.0.1
 ecdsa==0.18.0
 eth-abi @ git+https://github.com/ethereum/eth-abi.git@78c42caaa567e2e49b03c18706e1adda1828505d
-eth-account @ git+https://github.com/crossbario/eth-account.git@1aa6220b0f2c17035837f7ada4f495112f176cca
+eth-account==0.11.0
 eth-hash==0.5.1
 eth-keyfile==0.6.0
 eth-keys==0.4.0
 eth-rlp==0.3.0
-eth-typing @ git+https://github.com/ethereum/eth-typing.git@c93c57f7331c8e515cf72e5893bf2c9cec7e5c69
-eth-utils==2.1.0
+eth-typing==4.1.0
+eth-utils==4.1.0
 Flask==2.2.2
 flatbuffers==23.1.21
 frozenlist==1.3.3
@@ -57,8 +57,7 @@ Jinja2==3.1.2
 jinja2-highlight==0.6.1
 jinja2-time==0.2.0
 jsonschema==4.17.3
-lmdb==1.4.0
-lru-dict==1.1.8
+lmdb @ git+https://github.com/focusritegroup/py-lmdb.git@62d991288417d5e6cd6773592d6b6f548549e708
 MarkupSafe==2.1.2
 mistune==2.0.5
 mnemonic==0.20
