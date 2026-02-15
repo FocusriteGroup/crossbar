@@ -56,3 +56,4 @@ get-pip.py
 .db-mrealm-*
 .xbrnetwork
 test/test_automated/.test/
+.venv
